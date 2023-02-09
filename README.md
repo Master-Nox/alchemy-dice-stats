@@ -46,7 +46,7 @@ This repository is intended to implement Dice Statistics Tracking into the Alche
 - [x] Who had the lowest average d20 roll
 
 ## Character Stat Pooling
-### This is the idea that players can combined their statistics together to see how much damage they did in total.
+This is the idea that players can combine their statistics together to see how much damage they did in total.
 
 > Not yet Implemented.
 
